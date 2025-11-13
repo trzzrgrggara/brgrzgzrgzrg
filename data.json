@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop HP Pavilion 15",
+    "price": 899.99,
+    "category": "Electronics",
+    "inStock": true,
+    "rating": 4.5,
+    "image": "https://example.com/images/laptop-hp.jpg",
+    "description": "لابتوب قوي مناسب للعمل والدراسة بمعالج Intel i7 وذاكرة 16GB RAM."
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "price": 1199.00,
+    "category": "Smartphones",
+    "inStock": false,
+    "rating": 4.8,
+    "image": "https://example.com/images/iphone15.jpg",
+    "description": "أحدث إصدار من آيفون مع كاميرات محسّنة وشاشة ProMotion."
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5",
+    "price": 349.99,
+    "category": "Headphones",
+    "inStock": true,
+    "rating": 4.9,
+    "image": "https://example.com/images/sony-headphones.jpg",
+    "description": "سماعات لاسلكية بخاصية إلغاء الضوضاء وجودة صوت مذهلة."
+  }
+]
